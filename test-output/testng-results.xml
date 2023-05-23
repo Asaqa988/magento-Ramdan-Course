@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-23T21:56:05 EEST" name="Default suite" finished-at="2023-05-23T21:56:21 EEST" duration-ms="16600">
+    <groups>
+    </groups>
+    <test started-at="2023-05-23T21:56:05 EEST" name="Default test" finished-at="2023-05-23T21:56:21 EEST" duration-ms="16600">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:MyTestCases@1a1ed4e5]" started-at="2023-05-23T21:56:05 EEST" name="myBeforeTest" finished-at="2023-05-23T21:56:07 EEST" duration-ms="2367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="SingIUp()[pri:1, instance:MyTestCases@1a1ed4e5]" started-at="2023-05-23T21:56:07 EEST" name="SingIUp" finished-at="2023-05-23T21:56:17 EEST" duration-ms="10247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingIUp -->
+        <test-method signature="SignIn()[pri:2, instance:MyTestCases@1a1ed4e5]" started-at="2023-05-23T21:56:17 EEST" name="SignIn" finished-at="2023-05-23T21:56:21 EEST" duration-ms="3968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
