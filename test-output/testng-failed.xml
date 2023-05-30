@@ -5,8 +5,8 @@
     <classes>
       <class name="MyTestCases">
         <methods>
-          <include name="CheckOutProcess"/>
           <include name="myBeforeTest"/>
+          <include name="this_is_a_test"/>
         </methods>
       </class> <!-- MyTestCases -->
     </classes>
