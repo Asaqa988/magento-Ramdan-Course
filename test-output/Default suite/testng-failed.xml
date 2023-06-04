@@ -6,7 +6,7 @@
       <class name="MyTestCases">
         <methods>
           <include name="myBeforeTest"/>
-          <include name="this_is_a_test"/>
+          <include name="confirm_the_price"/>
         </methods>
       </class> <!-- MyTestCases -->
     </classes>
